@@ -1,4 +1,4 @@
-JOb title: Looking for a senior back-end developer who is experienced in blockchain
+Job title: Looking for a senior back-end developer who is experienced in blockchain
 
 
 Already completed the beta version of NFT art generator's backend part.
